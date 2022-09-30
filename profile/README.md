@@ -11,7 +11,7 @@ The founders of Blox-it are proud of what they've built and are committed to con
 This is your place to call home. This is Blox-it.
 
 ## I'd like to start programming in Luau. Where do I start?
-You may check the following websites.
+You may check the following resources.
 
 ###### Information regarding developing on Roblox
 [Roblox Developers Website](https://developer.roblox.com)
