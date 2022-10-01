@@ -23,3 +23,9 @@ You may check the following resources.
 [Building Tutorials](https://create.roblox.com/docs/tutorials)
 ###### Community resources
 [PeasFactory's YouTube Channel](https://www.youtube.com/user/PeasFactory)
+
+## Follow our socials!
+
+Join our [Discord server!](https://discord.gg/55unjzE4dU)
+
+We also have a (dead) [YouTube channel!](https://youtube.com/channel/UC8sgxQWbGLv6eyrjLnl_jlQ)
