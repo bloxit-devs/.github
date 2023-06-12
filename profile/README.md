@@ -21,8 +21,12 @@ You may check the following resources.
 [Getting Started](https://create.roblox.com/docs/getting-started)
 
 [Building Tutorials](https://create.roblox.com/docs/tutorials)
+
+[Creator Documentation](https://create.roblox.com/docs)
 ###### Community resources
 [PeasFactory's YouTube Channel](https://www.youtube.com/user/PeasFactory)
+
+AlvinBlox and TheDevKing are two other beginner's choice creators. However, we at Blox-it do not recommend learning from them.
 
 ## Follow our socials!
 
