@@ -4,7 +4,7 @@ The home for everyone who shares the passion of creating something amazing on Ro
 ## About us
 Blox-it was created as a space for Roblox developers to connect, collaborate, and grow together.  
 
-Since 2021, Blox-it has evolved into a go-to destination for Roblox developers of all skill levels. What began as a small idea has eventually become a community where creators from around the globe to share ideas, collaborate on projects, and support one another.
+Since 2021, Blox-it has evolved into a go-to destination for Roblox developers of all skill levels. What began as a small idea has eventually become a community where creators come from around the globe to share ideas, collaborate on projects, and support one another.
 
 We are constantly growing and evolving. Our community boasts dozens of incredible resources relied on by top developers across the platform, as well as unique experiences enjoyed by thousands of players every day.
 
