@@ -17,17 +17,23 @@ You may check the following resources.
 
 ###### Information regarding developing on Roblox
 [Roblox Developers Website](https://developer.roblox.com)
+
 [Roblox Education Website](https://education.roblox.com)
 
 ##### Official documentation
 [Roblox Creator Documentation](https://create.roblox.com/docs)
+
 [Creator Docs: Getting Started](https://create.roblox.com/docs/getting-started)
+
 [Creator Docs: Building Tutorials](https://create.roblox.com/docs/tutorials)
+
 [The Luau language documentation](https://luau.org/getting-started)
 
 ###### Community resources
 [PeasFactory's YouTube Channel](https://www.youtube.com/user/PeasFactory)
+
 [BrawlDev's YouTube Channel](https://www.youtube.com/@BrawlDevRBLX)
+
 [Roblox Developer Forum](https://devforum.roblox.com)
 
 AlvinBlox and TheDevKing are two other beginner's choice creators. However, many members of Blox-it agree that they are not reliable sources for learning. Their tutorials often focus on showing results rather than explaining the underlying concepts, use poor practices that can lead to bad habits, or fail to provide a solid foundation for understanding scripting principles. As a result, learners may struggle to apply the knowledge effectively in their own projects.
