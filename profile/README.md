@@ -8,7 +8,7 @@ Since 2021, Blox-it has evolved into a go-to destination for Roblox developers o
 
 We are constantly growing and evolving. Our community boasts dozens of incredible resources relied on by top developers across the platform, as well as unique experiences enjoyed by thousands of players every day.
 
-Whether you’re into coding, crafting stunning visuals, or making beats, there’s a place for you here. 
+Whether you’re into coding, creating stunning visuals, or mixing some beats, there’s a place for you here. 
 
 This is Blox-it.
 
